@@ -9,5 +9,5 @@ The below scatterplot shows the example data points colored by cluster membershi
 ![test](/counting_clusters/counting_clusters_example_viz.png)
 
 ### Challenge
-Count the number of clusters in [challenge data set](counting_clusters_example_data.csv), which contains the 649 points in 11 dimensions.
+Count the number of clusters in [challenge data set](counting_clusters_challenge_data.csv), which contains the 649 points in 11 dimensions.
  
