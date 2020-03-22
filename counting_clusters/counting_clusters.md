@@ -1,6 +1,8 @@
 ## Counting Clusters
 _Mitchell Krawiec-Thayer, March 2020_
 
+To check answer, email mitchellpkt@protonmail.com
+
 ### Example
 The "counting clusters" [example data set](counting_clusters_example_data.csv) describes 87 points in 2 dimensions, which form 5 clusters. 
 
